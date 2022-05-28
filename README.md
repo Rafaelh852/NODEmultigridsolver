@@ -1,2 +1,2 @@
 # NODEmultigridsolver
-multigrid method implementation for solving Nonlinear Ordinary Differential Equation
+multigrid method implementation for solving a Nonlinear Ordinary Differential Equation
